@@ -9,12 +9,12 @@ import java.awt.*;
 
 public class Triangle
 {
-    private int height;
-    private int width;
-    private int xPosition;
-    private int yPosition;
-    private String color;
-    private boolean isVisible;
+    public int height;
+    public int width;
+    public int xPosition;
+    public int yPosition;
+    public String color;
+    public boolean isVisible;
 
     /**
      * Create a new triangle at default position with default color.

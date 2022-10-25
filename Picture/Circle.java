@@ -10,9 +10,9 @@ import java.awt.geom.*;
 
 public class Circle
 {
-    private int diameter;
-    private int xPosition;
-    private int yPosition;
+    public int diameter;
+    public int xPosition;
+    public int yPosition;
     private String color;
     private boolean isVisible;
 
